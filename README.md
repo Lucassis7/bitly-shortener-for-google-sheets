@@ -16,6 +16,8 @@ Criar uma planilha (ou planilha já criada) no Google Sheets;
 <details>
 <summary>:camera_flash: Image | Imagem</summary>
 
+##### Nova Planilha | New Sheet
+![new-sheet](/images/01-empty-sheet.png)
 </details>
 
 ## Step 02:
@@ -30,6 +32,11 @@ Na planilha busque no menu superior Extensões > Apps Script e crie um novo proj
 <details>
 <summary>:camera_flash: Image | Imagem</summary>
 
+##### Acessando Apps Script | Opening Apps Script
+![extension-apps-script](/images/02-extensions-app-script.png)
+
+##### Organizando o Ambiente de Trabalho | Organizing Workspace
+![new-app-script](/images/03-new-app-script.png)
 </details>
 
 ## Step 03:
@@ -44,6 +51,8 @@ Copiar o código disponibilizado no arquivo e salvá-lo para utilização;
 <details>
 <summary>:camera_flash: Image | Imagem</summary>
 
+##### Criando a Função | Creating a Function
+![app-script-function](/images/04-app-script-function.png)
 </details>
 
 ## Step 04:
@@ -58,6 +67,20 @@ No site bitly, com a conta ativa, abrir a aba development (Settings > Developer 
 <details>
 <summary>:camera_flash: Image | Imagem</summary>
 
+##### Acessando o Bitly | Accessing Bitly
+![bitly-account](/images/05-bitly-account.png)
+	
+##### Token API Bitly - Parte 1 | Token API Bitly - Part 1
+![bitly-token-api](/images/06-bitly-token-api.png)
+	
+##### Token API Bitly - Parte 2 | Token API Bitly - Part 2
+![bitly-token-password](/images/07-bitly-token-password.png)
+	
+##### Token API Bitly - Parte 3 | Token API Bitly - Part 3
+![bitly-token-generate](/images/08-bitly-token-generate.png)
+
+##### Token API Bitly - Parte 4 | Token API Bitly - Part 4
+![bitly-token](/images/09-bitly-token.png)
 </details>
 
 ## Step 05:
@@ -71,7 +94,15 @@ Na planilha utilizar a função nomeada no Apps Script na célula por meio de <b
 </details>
 <details>
 <summary>:camera_flash: Image | Imagem</summary>
-IMAGEM
+
+##### Aplicando a Função na Planilha | Applying the Function on the Sheet
+![bitly-token](/images/10-sheets-function.png)
+	
+##### Utilizando o "arrastar" | Using "drag" function
+![bitly-token](/images/11-sheets-massively-shortened.png)
+	
+##### Resultado dos Sites encurtados | Result of shortened Sites
+![bitly-token](/images/12-sheets-shortlinks-results.png)
 </details>
  
 ## :brazil: Código | :us: Script:
